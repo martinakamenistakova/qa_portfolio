@@ -1,6 +1,6 @@
 # QA Portfolio
 
-## Vitajte v mojom QA portfóliu!
+## Vitajte v mojom QA portfóliu
 
 *Som začínajúca QA testerka so záujmom o manuálne testovanie softvéru. Absolvovala som vzdelávací program Women Tester Academy (Aj Ty v IT), v ktorom som získala základy testovania webových aplikácií a práce s testovacími nástrojmi.*
 
