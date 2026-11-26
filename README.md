@@ -34,7 +34,7 @@
 
 Skupinový projekt v rámci Women Tester Academy. Testovanie registračného procesu a výpočtu dovolenkového nároku.
 
-[Prejsť na projekt a testovaciu dokumentáciu](dovolenkovac-manual-testing)
+[Prejsť na projekt a testovaciu dokumentáciu](dovolenkovac-manual-testing/README.md)
 
 ## Vzdelávanie
 
