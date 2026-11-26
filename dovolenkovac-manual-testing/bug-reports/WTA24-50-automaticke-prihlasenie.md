@@ -10,7 +10,7 @@
 
 ## Popis chyby
 
-Po úspešnej registrácii aplikácia používateľa automaticky prihlási namiesto presmerovania na prihlasovaciu stránku.
+Po úspešnej registrácii aplikácia používateľa automaticky prihlási namiesto zobrazenia prihlasovacej stránky.
 
 ## Kroky na reprodukciu
 
