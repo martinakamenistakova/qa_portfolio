@@ -6,7 +6,7 @@ Dovolenkovač je webová aplikácia určená na správu dovoleniek zamestnancov.
 
 Cieľom projektu bolo analyzovať požiadavky, pripraviť testovacie prípady, vykonať manuálne testovanie aplikácie a zdokumentovať zistené chyby.
 
-**Moja úloha v projekte**
+### Moja úloha v projekte
 
 V rámci skupinového projektu som zodpovedala za dve oblasti:
 
@@ -34,13 +34,13 @@ V rámci pridelených oblastí som vytvorila a vykonala celkovo 11 testovacích 
 
 ## Dokumentácia
 
-**Testovacie prípady**
+### Testovacie prípady
 
 - [TP3.1 – Registrácia](test_cases/registracia.md)
 
 - [SP09 – Výpočet dovolenkového nároku](test_cases/dovolenkovy_narok.md)
 
-**Bug reporty**
+### Bug reporty
 
 - [**WTA24-47** – Registrácia s neplatným rokom narodenia](bug_reports/WTA24-47-neplatny-rok-narodenia.md)
 
