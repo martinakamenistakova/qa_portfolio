@@ -1,4 +1,4 @@
-#WTA24-50 – Automatické prihlásenie po registrácii
+# WTA24-50 – Automatické prihlásenie po registrácii
 
 **Projekt:** Dovolenkovač  
 **Typ:** Bug  
