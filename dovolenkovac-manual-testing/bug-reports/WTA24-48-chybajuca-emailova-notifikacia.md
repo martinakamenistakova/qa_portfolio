@@ -10,7 +10,7 @@
 
 ## Popis chyby
 
-Po úspešnej registrácii aplikácia neodošle používateľovi e-mailovú notifikáciu o registrácii.
+Po úspešnej registrácii používateľ nedostane e-mailovú notifikáciu o registrácii.
 
 ## Kroky na reprodukciu
 
@@ -21,7 +21,7 @@ Po úspešnej registrácii aplikácia neodošle používateľovi e-mailovú noti
 
 ## Očakávaný výsledok
 
-Aplikácia odošle na zadanú e-mailovú adresu notifikáciu o úspešnej registrácii.
+Na zadanú e-mailovú adresu bude doručená notifikácia o úspešnej registrácii.
 
 ## Skutočný výsledok
 
