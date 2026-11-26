@@ -3,7 +3,8 @@
 ## Vitajte v mojom QA portfóliu!
 
 *Som začínajúca QA testerka so záujmom o manuálne testovanie softvéru. Absolvovala som vzdelávací program Women Tester Academy (Aj Ty v IT), v ktorom som získala základy testovania webových aplikácií a práce s testovacími nástrojmi.*
-*Počas akademického pôsobenia som získala skúsenosti so zberom a spracovaním dát, analýzou výsledkov a ich systematickým vyhodnocovaním. Rozvíjala som analytické a kritické myslenie, samostatnosť pri riešení problémov a dôraz na detail. Tieto skúsenosti som nadobudla počas doktorandského štúdia v oblasti environmentálnych vied so zameraním na zoológiu.*
+
+*Počas akademického pôsobenia som získala skúsenosti so zberom a spracovaním dát, analýzou výsledkov a ich systematickým vyhodnocovaním. Rozvíjala som analytické a kritické myslenie, samostatnosť pri riešení problémov a dôraz na detail. Tieto skúsenosti som nadobudla počas doktorandského štúdia v oblasti environmentálnych vied.*
 
 ## Technické znalosti
 
