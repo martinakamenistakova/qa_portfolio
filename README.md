@@ -1,56 +1,50 @@
-# qa_portfolio
-Moje portfólio manuálneho testovania a projektov.
+# QA Portfolio
 
-# Dovolenkovač – Manuálne testovanie webovej aplikácie
+## Vitajte v mojom QA portfóliu!
 
-## O projekte
+*Som začínajúca QA testerka so záujmom o manuálne testovanie softvéru. Absolvovala som vzdelávací program Women Tester Academy (Aj Ty v IT), v ktorom som získala základy testovania webových aplikácií a práce s testovacími nástrojmi.*
+*Počas akademického pôsobenia som získala skúsenosti so zberom a spracovaním dát, analýzou výsledkov a ich systematickým vyhodnocovaním. Rozvíjala som analytické a kritické myslenie, samostatnosť pri riešení problémov a dôraz na detail. Tieto skúsenosti som nadobudla počas doktorandského štúdia v oblasti environmentálnych vied so zameraním na zoológiu.*
 
-Dovolenkovač je webová aplikácia určená na správu dovoleniek zamestnancov. Projekt bol súčasťou praktickej skupinovej úlohy v rámci vzdelávacieho programu Women Tester Academy (Aj Ty v IT).
+## Technické znalosti
 
-Cieľom projektu bolo analyzovať požiadavky, pripraviť testovacie prípady, vykonať manuálne testovanie aplikácie a zdokumentovať zistené chyby.
+- Manuálne testovanie
 
-**Moja úloha v projekte**
+- Tvorba a vykonávanie testovacích prípadov
 
-V rámci skupinového projektu som zodpovedala za dve oblasti:
+- Písanie bug reportov
 
-- TP3.1 – Registrácia: testovanie registračného procesu, validácie vstupných údajov a správania aplikácie po registrácii.
+- Exploratory testing
 
-- SP09 – Výpočet dovolenkového nároku: overenie výpočtu počtu dní dovolenky podľa veku používateľa a správneho odpočítania dní po vytvorení žiadosti o dovolenku.
+- Session-Based Testing
 
-Pridelené oblasti som spracovala prevažne samostatne.
+- JIRA a TestRail
 
-## Rozsah testovania a výsledky
+- SQL – základy
 
-V rámci pridelených oblastí som vytvorila a vykonala celkovo 11 testovacích prípadov.
+- Postman – základy testovania API
 
-7 testovacích prípadov bolo úspešných.
+- Git, GitHub a GitKraken
 
-4 testovacie prípady skončili neúspešne a viedli k identifikácii chýb v registračnom procese.
+- Základy HTML, CSS a JavaScriptu
 
-## Použité nástroje a dokumentácia
+## Projekty
 
-- **JIRA** – evidencia a správa nájdených chýb.
+- **Dovolenkovač** – manuálne testovanie webovej aplikácie
 
-- **Manuálne testovanie** – vykonávanie testovacích prípadov a overovanie funkčnosti aplikácie.
+Skupinový projekt v rámci Women Tester Academy. Testovanie registračného procesu a výpočtu dovolenkového nároku.
 
-- **Markdown** – dokumentácia testovacích prípadov a bug reportov.
+[Prejsť na projekt a testovaciu dokumentáciu](dovolenkovac-manual-testing)
 
-## Dokumentácia
+## Vzdelávanie
 
-**Testovacie prípady**
+**Women Tester Academy – Aj Ty v IT**
 
-- [TP3.1 – Registrácia](test_cases/registracia.md)
+- Manuálne testovanie webových aplikácií
 
-- [SP09 – Výpočet dovolenkového nároku](test_cases/dovolenkovy_narok.md)
+- Návrh a vykonávanie testovacích prípadov
 
-**Bug reporty**
+- Evidencia a dokumentácia chýb
 
-- [**WTA24-47** – Registrácia s neplatným rokom narodenia](bug_reports/WTA24-47-neplatny-rok-narodenia.md)
+- Exploratory a Session-Based Testing
 
-- [**WTA24-48** – Chýbajúca e-mailová notifikácia po registrácii](bug_reports/WTA24-48-chybajuca-emailova-notifikacia.md)
-
-- [**WTA24-49** – Chýbajúce potvrdenie úspešnej registrácie](bug_reports/WTA24-49-chybajuce-potvrdenie-registracie.md)
-
-- [**WTA24-50** – Automatické prihlásenie po registrácii](bug_reports/WTA24-50-automaticke-prihlasenie.md)
-
-*Projekt bol realizovaný v rámci Women Tester Academy – Aj Ty v IT.*
+- Základy SQL a API testovania
